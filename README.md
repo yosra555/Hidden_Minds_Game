@@ -1,5 +1,6 @@
 # Hidden Minds Game
 This game has three levels: 
+
  -the first is about ancient Egypt.
  
  -the second is about space.
